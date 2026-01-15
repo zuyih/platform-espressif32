@@ -82,7 +82,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "~3.20017.0"
+      "version": "https://github.com/zuyih/arduino-esp32#v2.0-tinyusb"
     },
     "framework-espidf": {
       "type": "framework",
